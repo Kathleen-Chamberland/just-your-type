@@ -23,7 +23,9 @@ html {
   display: block;
   width: 100%;
 }
-
+html {
+background-color: #E6E6FA;
+}
 
 
 
