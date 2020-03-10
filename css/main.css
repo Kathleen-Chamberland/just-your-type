@@ -3,9 +3,9 @@ html {
 }
 
 h1 {
-  font-family: 'Philosopher', sans-serif;
+  font-family: "Amatic SC", cursive;
 }
 
 p {
-  font-family: 'Amatic SC', cursive;
+  font-family: Philosopher, sans-serif;
 }
