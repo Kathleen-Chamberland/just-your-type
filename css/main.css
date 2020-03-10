@@ -7,7 +7,9 @@ h1 {
 }
 
 p {
-  font-family: 'Poppins', sans-serif;
-  color: #FFFF66;
-  text-transform: uppercase;
+  font-family: Poppins, sans-serif;
+}
+
+p:hover, a:hover {
+  background-color: #ff6;
 }
