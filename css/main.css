@@ -19,27 +19,14 @@ html {
   box-sizing: inherit;
 }
 
-.img-flex {
-  display: block;
-  width: 100%;
-}
 html {
-background-color: #E6E6FA;
+  background-color: #E6E6FA;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-{
+h1 {
   font-family: 'Philosopher', sans-serif;
-font-family: 'Amatic SC', cursive;
+}
+
+p {
+  font-family: 'Amatic SC', cursive;
 }
